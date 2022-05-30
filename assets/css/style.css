@@ -20,4 +20,10 @@ ul {
 }
 a {
     color: #fff;
+    text-decoration: none;
+}
+p {
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
 }
