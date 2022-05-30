@@ -11,6 +11,9 @@ h1{
 img{
     margin: auto;
 }
+img:hover {
+    opacity: 0.5;
+  }
 h3{
     font-family:monospace;
 }
